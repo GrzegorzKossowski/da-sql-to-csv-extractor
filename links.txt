@@ -1,0 +1,3 @@
+https://www.pythonguis.com/tutorials/pyqt-signals-slots-events/#menu
+
+https://doc.qt.io/qtforpython-6/api.html
